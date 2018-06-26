@@ -1,18 +1,18 @@
 Info::
-    Find Subset Image
+              Find Subset Image
 
 Requirements::
-    - scikit-image
-    - scipy
-    - numpy
-    - pillow
+            - scikit-image
+            - scipy
+            - numpy
+            - pillow
 
 Installation::
-    - upgrade pip
-    python -m pip install --upgrade pip
-    
-    - install requirements
-    pip install --upgrade scikit-image scipy
+            - upgrade pip
+            python -m pip install --upgrade pip
+
+            - install requirements
+            pip install --upgrade scikit-image scipy
 
 Usage::
-    Used to find plagiarism in images
+             Used to find plagiarism in images
