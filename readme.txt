@@ -15,4 +15,4 @@ Installation::
     pip install --upgrade scikit-image scipy
 
 Usage::
-    python sentiment.py
+    Used to find plagiarism in images
